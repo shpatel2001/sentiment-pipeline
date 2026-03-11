@@ -11,7 +11,7 @@ An end-to-end data engineering pipeline designed to audit online media for "toxi
 - **Language:** Python 3.11
 - **Orchestration:** Docker (Containerized workflow)
 - **Database:** DuckDB (In-memory SQL)
-- **Visualization:** [View Live Tableau Dashboard](YOUR_TABLEAU_URL_HERE)
+- **Visualization:** [View Live Tableau Dashboard](https://public.tableau.com/app/profile/shayen.patel/viz/VoiceIntelligenceMediaSentimentMonitor/MediaSentimentPipelineMedallionArchitectureInsights?publish=yes)
 
 ## How to Run
 1. Clone the repo.
